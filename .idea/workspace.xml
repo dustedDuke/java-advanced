@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c20bdba-9fec-4b3a-ab98-a88993b5ce1b" name="Default Changelist" comment="" />
+    <list default="true" id="7c20bdba-9fec-4b3a-ab98-a88993b5ce1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/JarImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/walk/RecursiveWalk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/run_test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/run_test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/RecursiveWalkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/RecursiveWalkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/WalkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/WalkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/walk/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor$MethodWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor$MethodWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor$UnicodeWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor$UnicodeWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,37 +27,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/ParallelMapperImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/IterativeParallelism.java">
+        <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/arrayset/ArraySet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            <state relative-caret-position="391">
+              <caret line="235" column="33" lean-forward="true" selection-start-line="235" selection-start-column="33" selection-end-line="235" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#2618#2619#0" expanded="true" />
+                <element signature="e#2675#2676#0" expanded="true" />
+                <element signature="e#2716#2717#0" expanded="true" />
+                <element signature="e#2773#2774#0" expanded="true" />
+                <element signature="e#2824#2825#0" expanded="true" />
+                <element signature="e#2862#2863#0" expanded="true" />
+                <element signature="e#3290#3291#0" expanded="true" />
+                <element signature="e#3339#3340#0" expanded="true" />
+                <element signature="e#4682#4683#0" expanded="true" />
+                <element signature="e#4715#4716#0" expanded="true" />
+                <element signature="e#4791#4792#0" expanded="true" />
+                <element signature="e#4857#4858#0" expanded="true" />
+                <element signature="e#4919#4920#0" expanded="true" />
+                <element signature="e#4967#4968#0" expanded="true" />
+                <element signature="e#5031#5032#0" expanded="true" />
+                <element signature="e#5080#5081#0" expanded="true" />
+                <element signature="e#5428#5458#0" expanded="true" />
+                <element signature="e#5497#5498#0" expanded="true" />
+                <element signature="e#5574#5575#0" expanded="true" />
+                <element signature="e#5613#5614#0" expanded="true" />
+                <element signature="e#5647#5648#0" expanded="true" />
+                <element signature="e#5710#5711#0" expanded="true" />
+                <element signature="e#5767#5768#0" expanded="true" />
+                <element signature="e#5808#5809#0" expanded="true" />
+                <element signature="e#5865#5866#0" expanded="true" />
+                <element signature="e#5935#5936#0" expanded="true" />
+                <element signature="e#5992#5993#0" expanded="true" />
+                <element signature="e#6037#6038#0" expanded="true" />
+                <element signature="e#6094#6095#0" expanded="true" />
+                <element signature="e#6147#6148#0" expanded="true" />
+                <element signature="e#6204#6205#0" expanded="true" />
+                <element signature="e#6267#6268#0" expanded="true" />
+                <element signature="e#6324#6325#0" expanded="true" />
+                <element signature="e#6776#6777#0" expanded="true" />
+                <element signature="e#6869#6870#0" expanded="true" />
+                <element signature="e#6916#6917#0" expanded="true" />
+                <element signature="e#6958#6959#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/mapper/ParallelMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -59,40 +94,49 @@
     <findStrings>
       <find>System.out.println</find>
       <find>U&gt;</find>
+      <find>BLOCKS</find>
+      <find>checkIfhas</find>
     </findStrings>
     <replaceStrings>
       <replace>System.out.print</replace>
       <replace>R&gt;</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java" />
         <option value="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/implementor/basic/interfaces/standard/AccessibleImpl.java" />
-        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/concurrent/ParallelMapperImpl.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/ParallelMapper.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/concurrent/IterativeParallelism.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/ParallelMapperImpl.java" />
         <option value="$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/mapper/ParallelMapper.java" />
         <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/IterativeParallelism.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/walk/Walk.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/JarImplementor.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/hello/HelloUDPServer.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/hello/HelloUDPClient.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/walk/RecursiveWalk.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java" />
+        <option value="$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/arrayset/ArraySet.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
-    <option name="y" value="27" />
-    <option name="width" value="960" />
-    <option name="height" value="1002" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="255" />
+    <option name="y" value="75" />
+    <option name="width" value="1478" />
+    <option name="height" value="894" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,41 +153,26 @@
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="naumkin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="naumkin" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayset" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
+              <item name="naumkin" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="naumkin" type="462c0819:PsiDirectoryNode" />
               <item name="implementor" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -151,7 +180,6 @@
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="naumkin" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -159,22 +187,24 @@
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
               <item name="naumkin" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="walk" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557867446296" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558294296592" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,18 +252,19 @@
       <workItem from="1557297740214" duration="24469000" />
       <workItem from="1557746131984" duration="2485000" />
       <workItem from="1557841751419" duration="16724000" />
-      <workItem from="1557910278219" duration="3912000" />
+      <workItem from="1557910278219" duration="4512000" />
+      <workItem from="1558154479611" duration="33982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55093000" />
+    <option name="totallyTimeSpent" value="89675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="27" width="960" height="1002" extended-state="4" />
+    <frame x="0" y="27" width="1920" height="1002" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.34682712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16115262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -242,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" weight="0.32890365" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -279,32 +310,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.class">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13140">
-          <caret line="918" column="1" selection-start-line="918" selection-start-column="1" selection-end-line="918" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4093#4094#0" expanded="true" />
-            <element signature="e#4130#4131#0" expanded="true" />
-            <element signature="e#7290#7291#0" expanded="true" />
-            <element signature="e#7334#7335#0" expanded="true" />
-            <element signature="e#8820#8821#0" expanded="true" />
-            <element signature="e#8857#8858#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/implementor/basic/interfaces/standard/Accessible.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -352,10 +357,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/ParallelMapperImpl.java">
+    <entry file="file://$PROJECT_DIR$/../JavaLab/Walk/src/com/company/Walk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/hello/HelloUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/hello/HelloUDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/info/kgeorgiy/java/advanced/hello/HelloServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/JarImplementor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="171" column="41" selection-start-line="171" selection-start-column="41" selection-end-line="171" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaLab/Walk/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/student/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/implementor/Implementor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="500" column="48" lean-forward="true" selection-start-line="500" selection-start-column="48" selection-end-line="500" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
+            <element signature="e#2779#2780#0" expanded="true" />
+            <element signature="e#4159#4160#0" expanded="true" />
+            <element signature="e#4203#4204#0" expanded="true" />
+            <element signature="e#5133#5134#0" expanded="true" />
+            <element signature="e#5170#5171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/walk/RecursiveWalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -364,12 +439,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/IterativeParallelism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        <state relative-caret-position="585">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/mapper/ParallelMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/ru/ifmo/rain/naumkin/arrayset/ArraySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="235" column="33" lean-forward="true" selection-start-line="235" selection-start-column="33" selection-end-line="235" selection-end-column="33" />
+          <folding>
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#2618#2619#0" expanded="true" />
+            <element signature="e#2675#2676#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2773#2774#0" expanded="true" />
+            <element signature="e#2824#2825#0" expanded="true" />
+            <element signature="e#2862#2863#0" expanded="true" />
+            <element signature="e#3290#3291#0" expanded="true" />
+            <element signature="e#3339#3340#0" expanded="true" />
+            <element signature="e#4682#4683#0" expanded="true" />
+            <element signature="e#4715#4716#0" expanded="true" />
+            <element signature="e#4791#4792#0" expanded="true" />
+            <element signature="e#4857#4858#0" expanded="true" />
+            <element signature="e#4919#4920#0" expanded="true" />
+            <element signature="e#4967#4968#0" expanded="true" />
+            <element signature="e#5031#5032#0" expanded="true" />
+            <element signature="e#5080#5081#0" expanded="true" />
+            <element signature="e#5428#5458#0" expanded="true" />
+            <element signature="e#5497#5498#0" expanded="true" />
+            <element signature="e#5574#5575#0" expanded="true" />
+            <element signature="e#5613#5614#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+            <element signature="e#5710#5711#0" expanded="true" />
+            <element signature="e#5767#5768#0" expanded="true" />
+            <element signature="e#5808#5809#0" expanded="true" />
+            <element signature="e#5865#5866#0" expanded="true" />
+            <element signature="e#5935#5936#0" expanded="true" />
+            <element signature="e#5992#5993#0" expanded="true" />
+            <element signature="e#6037#6038#0" expanded="true" />
+            <element signature="e#6094#6095#0" expanded="true" />
+            <element signature="e#6147#6148#0" expanded="true" />
+            <element signature="e#6204#6205#0" expanded="true" />
+            <element signature="e#6267#6268#0" expanded="true" />
+            <element signature="e#6324#6325#0" expanded="true" />
+            <element signature="e#6776#6777#0" expanded="true" />
+            <element signature="e#6869#6870#0" expanded="true" />
+            <element signature="e#6916#6917#0" expanded="true" />
+            <element signature="e#6958#6959#0" expanded="true" />
           </folding>
         </state>
       </provider>

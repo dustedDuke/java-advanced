@@ -4,7 +4,6 @@ import info.kgeorgiy.java.advanced.student.Student;
 import info.kgeorgiy.java.advanced.student.Group;
 import info.kgeorgiy.java.advanced.student.StudentGroupQuery;
 
-import java.nio.file.StandardOpenOption;
 import java.util.*;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
@@ -130,10 +129,6 @@ public class StudentDB implements StudentGroupQuery {
         return filterSortStudents(students, s -> s.getGroup().equals(group),
                 Collectors.toMap(Student::getLastName, Student::getFirstName, BinaryOperator.minBy(String::compareTo)));
     }
-
-    //    @Override
-//    public List<Map.Entry<String, String>> findStudentNamesByGroupList(List<Student> students, String group) {
-//        return null;
 
     @Override
     public List<Group> getGroupsByName(Collection<Student> students) {

@@ -1,6 +1,6 @@
 /**
  * Tests
- * for <a href="https://www.kgeorgiy.info/courses/java-advanced/homeworks.html#homework-walk">Walk</a> homework
+ * for <a href="https://www.kgeorgiy.info/courses/java-advanced/homeworks.html#homework-walk">RecursiveWalk</a> homework
  * of <a href="https://www.kgeorgiy.info/courses/java-advanced/">Java Advanced</a> course.
  *
  * @author Georgiy Korneev (kgeorgiy@kgeorgiy.info)

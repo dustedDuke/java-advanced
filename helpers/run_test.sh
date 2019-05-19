@@ -89,6 +89,16 @@ then
   else
     $exec $gosha.crawler hard $my.crawler.WebCrawler
   fi
+elif [ $1 == 10 ]
+then
+  if [ $2 == easy ]
+  then
+    $exec $gosha.hello client $my.hello.HelloUDPClient
+    $exec $gosha.hello server $my.hello.HelloUDPServer
+  else
+    $exec $gosha.hello client $my.hello.HelloUDPClient
+    $exec $gosha.hello server $my.hello.HelloUDPServer
+  fi
 else
   echo $usage
 fi
