@@ -19,20 +19,20 @@ public class HelloUDPClient implements HelloClient {
             ExecutorService workers = Executors.newFixedThreadPool(threads);
 
             for (int i = 0; i < threads; ++i) {
-                final InetAddress finalIp = ip;
-                final int finalI = i;
+                final InetAddress fin_ip = ip;
+                final int fin_i = i;
 
                 workers.submit(() -> {
                     try (DatagramSocket socket = new DatagramSocket()) {
                         socket.setSoTimeout(400);
 
                         for (int j = 0; j < msgCount; ++j) {
-                            String sendMessage = message + finalI + "_" + j;
+                            String sendMessage = message + fin_i + "_" + j;
 
                             byte[] sendBuffer = sendMessage.getBytes("UTF-8");
                             byte[] recvBuffer = new byte[socket.getReceiveBufferSize()];
 
-                            DatagramPacket sendPacket = new DatagramPacket(sendBuffer, 0, sendBuffer.length, finalIp, port);
+                            DatagramPacket sendPacket = new DatagramPacket(sendBuffer, 0, sendBuffer.length, fin_ip, port);
                             DatagramPacket recvPacket = new DatagramPacket(recvBuffer, recvBuffer.length);
 
                             while (!socket.isClosed() || Thread.currentThread().isInterrupted()) {
